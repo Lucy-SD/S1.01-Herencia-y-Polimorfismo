@@ -24,7 +24,7 @@ Desde el main() de la aplicación, crea un objeto Smartphone y llama a los méto
 
 Nivel 3:
 
-*Ejercicio 1: En una redacción de noticias deportivas tienen las noticias clasificadas para deportes: fútbol, baloncesto, tenis, F1 y motociclismo.
+* Ejercicio 1: En una redacción de noticias deportivas tienen las noticias clasificadas para deportes: fútbol, baloncesto, tenis, F1 y motociclismo.
 La redacción puede tener más de un redactor, y de cada uno de ellos queremos saber su nombre, el DNI y el sueldo. Una vez asignado un DNI, éste no podrá cambiar nunca. Todos los redactores tienen el mismo sueldo, y si en un futuro la empresa puede incrementarlo, lo hará a todo el mundo por igual. De momento el sueldo actual es de 1500 €.
 Cada redactor puede trabajar en más de una noticia. Las noticias deben tener un titular, un texto, una puntuación y un precio. En el momento de crearse, el texto debe estar vacío.
 Además, de las noticias de fútbol hay que saber a qué competición hace referencia(String), a qué club(String) y a qué jugador(String).
